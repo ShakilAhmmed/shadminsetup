@@ -1,0 +1,19 @@
+{
+    "name": "shadmin/setup",
+    "description": "You Can Use It For OverAll Project Setup ,Like Company Name , Email, Phone Number , Facebook Link and Logo",
+    "authors": [
+        {
+            "name": "ShakilAhmmed",
+            "email": "shakilfci461@gmail.com"
+        }
+    ],
+    "require": {
+        "laravelcollective/html": "^6.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Shadmin\\Setup\\": "src/"
+        }
+    }
+
+}
